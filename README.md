@@ -1,8 +1,8 @@
 # Greetings, I am Joshwell! 👋
 
-A Computer Science student at **Visayas State University**.
-
 ![birds](gif/nevermore_banner.gif)
+
+A Computer Science student at **Visayas State University**.
 
 I'm currently learning **C, C++, and Python** while building projects along the way. This profile is mainly a collection of the things I've built, experimented with, and learned while developing my programming skills.
 
