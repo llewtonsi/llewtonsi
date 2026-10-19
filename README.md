@@ -10,7 +10,7 @@ My projects range from web applications and Android tools to games and graphics 
 
 * Building web applications with HTML, CSS, and JavaScript
 * Developing Android apps with Kotlin and Jetpack Compose
-* Making games and interactive projects with Godot and C++
+* Making games and interactive projects with Godot
 * C, C++, and Python fundamentals
 * Git & GitHub
 * Software design, debugging, and problem solving
