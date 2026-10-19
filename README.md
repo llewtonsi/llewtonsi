@@ -2,42 +2,38 @@
 
 ![birds](gif/nevermore_banner.gif)
 
-A Computer Science student at **Visayas State University**.
+A Computer Science student at **Visayas State University** who builds practical apps, games, and experiments while learning how software works.
 
-I'm currently learning **C, C++, and Python** while building projects along the way. This profile is mainly a collection of the things I've built, experimented with, and learned while developing my programming skills.
+My projects range from web applications and Android tools to games and graphics experiments. I enjoy taking an idea from a small prototype toward something people can actually use, while continuing to strengthen my fundamentals along the way.
 
 ## Current Focus
 
-* C
-* C++
-* Python
+* Building web applications with HTML, CSS, and JavaScript
+* Developing Android apps with Kotlin and Jetpack Compose
+* Making games and interactive projects with Godot and C++
+* C, C++, and Python fundamentals
 * Git & GitHub
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Software Engineering Fundamentals
-* Problem Solving
+* Software design, debugging, and problem solving
 
 ## Repositories
 
-You'll mostly find:
+Some of the projects you'll find here and in my other repositories:
 
-* Console applications
-* Learning projects
-* Small utilities
-* Programming exercises
-* Personal projects
+* **Codebucket** — a coding practice platform with challenges, a code editor, and a multi-language runner
+* **Veinfall** — an open-source dungeon-crawling action game made with Godot
+* **VixLauncher** — an Android home launcher with a terminal-style interface and device readouts
+* **Portfolio** — a personal site showcasing my work and interests
 
 ## Tech
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,vscode,neovim,vim,git,github,arch,godot)
 
 ## Goals
 
-* Build projects consistently
-* Improve problem-solving and debugging
-* Strengthen my computer science fundamentals
-* Learn how software works beyond the code
-* Write cleaner and more maintainable programs
-* Build increasingly larger and more practical applications
+* Keep improving and expanding the projects I’ve started
+* Grow my skills across app, web, game, and graphics development
+* Strengthen my computer science and software engineering fundamentals
+* Make my projects more polished, reliable, and useful
+* Learn from building complete projects and sharing them with others
 
 ---
 
