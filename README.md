@@ -21,7 +21,7 @@ Some of the projects you'll find here and in my other repositories:
 
 * **Codebucket** — a coding practice platform with challenges, a code editor, and a multi-language runner
 * **Veinfall** — an open-source dungeon-crawling action game made with Godot
-* **VixLauncher** — an Android home launcher with a terminal-style interface and device readouts
+* **Aneonyx** — an Android home launcher with a terminal-style interface and device readouts
 * **Portfolio** — a personal site showcasing my work and interests
 
 ## Tech
