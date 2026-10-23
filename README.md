@@ -25,7 +25,7 @@ Some of the projects you'll find here and in my other repositories:
 * **Portfolio** — a personal site showcasing my work and interests
 
 ## Tech
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,vscode,neovim,vim,git,github,arch,godot)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,kotlin,vscode,neovim,vim,git,github,arch,godot,androidstudio)
 
 ## Goals
 
